@@ -4,6 +4,8 @@ Technical Test Software Engineer ESB
 check branch main to see the result answer :
 https://github.com/Ghinafairuznazilah/invoice-app/main
 
+note : you can use database from my-invoce.sql and setting your env file, or you can directly use the database with command : php artisan migrate, php artisan db:seed
+
 Invoice Rest Api
 
 To see all invoice :
