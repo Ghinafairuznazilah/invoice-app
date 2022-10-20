@@ -6,7 +6,9 @@ https://github.com/Ghinafairuznazilah/invoice-app/main
 
 note : you can use database from my-invoce.sql and setting your env file, or you can directly use the database with command : php artisan migrate, php artisan db:seed
 
-Invoice Rest Api
+you can see the demo video : https://youtu.be/XmLXmTePAZE
+
+##Invoice Rest Api
 
 To see all invoice :
 http://localhost:8000/invoices-api
